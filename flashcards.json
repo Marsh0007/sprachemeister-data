@@ -1,78 +1,8 @@
 [
   {
-    "germanWord": "Mann",
-    "englishMeaning": "Man",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Man_with_hat.jpg"
-  },
-  {
-    "germanWord": "Frau",
-    "englishMeaning": "Woman",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Woman_2017.jpg"
-  },
-  {
-    "germanWord": "Kind",
-    "englishMeaning": "Child",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Child_with_a_book.jpg"
-  },
-  {
-    "germanWord": "Ich",
-    "englishMeaning": "I",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Person_icon_BLACK-01.svg"
-  },
-  {
-    "germanWord": "Du",
-    "englishMeaning": "You",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/You_icon.svg"
-  },
-  {
-    "germanWord": "Buch",
-    "englishMeaning": "Book",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Book_icon.svg"
-  },
-  {
-    "germanWord": "Tisch",
-    "englishMeaning": "Table",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Table_icon.svg"
-  },
-  {
-    "germanWord": "Stuhl",
-    "englishMeaning": "Chair",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Chair_icon.svg"
-  },
-  {
-    "germanWord": "Tür",
-    "englishMeaning": "Door",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Door_icon.svg"
-  },
-  {
-    "germanWord": "Fenster",
-    "englishMeaning": "Window",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Window_icon.svg"
-  },
-  {
     "germanWord": "Apfel",
     "englishMeaning": "Apple",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg"
-  },
-  {
-    "germanWord": "Brot",
-    "englishMeaning": "Bread",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bread_icon.svg"
-  },
-  {
-    "germanWord": "Milch",
-    "englishMeaning": "Milk",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Milk_carton_icon.svg"
-  },
-  {
-    "germanWord": "Käse",
-    "englishMeaning": "Cheese",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Cheese_icon.svg"
-  },
-  {
-    "germanWord": "Ei",
-    "englishMeaning": "Egg",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Egg_icon.svg"
   },
   {
     "germanWord": "Hund",
@@ -85,178 +15,238 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
   },
   {
-    "germanWord": "Vogel",
-    "englishMeaning": "Bird",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bird_icon.svg"
-  },
-  {
-    "germanWord": "Fisch",
-    "englishMeaning": "Fish",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Fish_icon.svg"
-  },
-  {
-    "germanWord": "Kuh",
-    "englishMeaning": "Cow",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Cow_icon.svg"
-  },
-  {
     "germanWord": "Auto",
     "englishMeaning": "Car",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Audi_A4_B9_IMG_0934.jpg"
   },
   {
-    "germanWord": "Fahrrad",
-    "englishMeaning": "Bicycle",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bicycle_icon.svg"
-  },
-  {
-    "germanWord": "Zug",
-    "englishMeaning": "Train",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Train_icon.svg"
-  },
-  {
-    "germanWord": "Bus",
-    "englishMeaning": "Bus",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bus_icon.svg"
-  },
-  {
-    "germanWord": "Flugzeug",
-    "englishMeaning": "Airplane",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Airplane_icon.svg"
+    "germanWord": "Haus",
+    "englishMeaning": "House",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/German_House_in_Seiffen.jpg"
   },
   {
     "germanWord": "Baum",
     "englishMeaning": "Tree",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Tree_icon.svg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Oak_Tree.jpg"
   },
   {
     "germanWord": "Blume",
     "englishMeaning": "Flower",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flower_icon.svg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Rose_flower.jpg"
   },
   {
-    "germanWord": "Sonne",
-    "englishMeaning": "Sun",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sun_icon.svg"
-  },
-  {
-    "germanWord": "Mond",
-    "englishMeaning": "Moon",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Moon_icon.svg"
-  },
-  {
-    "germanWord": "Wolke",
-    "englishMeaning": "Cloud",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Cloud_icon.svg"
-  },
-  {
-    "germanWord": "Tür",
-    "englishMeaning": "Door",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Door_icon.svg"
+    "germanWord": "Buch",
+    "englishMeaning": "Book",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Books_aj.svg"
   },
   {
     "germanWord": "Fisch",
     "englishMeaning": "Fish",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Fish_icon.svg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Goldfish3.jpg"
   },
   {
-    "germanWord": "Mann",
-    "englishMeaning": "Man",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Man_with_hat.jpg"
+    "germanWord": "Vogel",
+    "englishMeaning": "Bird",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Blue_Tit_Lancashire.jpg"
   },
   {
-    "germanWord": "Tür",
-    "englishMeaning": "Door",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Door_icon.svg"
+    "germanWord": "Maus",
+    "englishMeaning": "Mouse",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/House_mouse.jpg"
   },
   {
-    "germanWord": "Apfel",
-    "englishMeaning": "Apple",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg"
-  },
-  {
-    "germanWord": "Käse",
+    "germanWord": "K\u00e4se",
     "englishMeaning": "Cheese",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Cheese_icon.svg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Swiss_cheese.jpg"
   },
   {
-    "germanWord": "Auto",
-    "englishMeaning": "Car",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Audi_A4_B9_IMG_0934.jpg"
+    "germanWord": "Wasser",
+    "englishMeaning": "Water",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Water_drop_001.jpg"
   },
   {
-    "germanWord": "Fenster",
-    "englishMeaning": "Window",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Window_icon.svg"
+    "germanWord": "Milch",
+    "englishMeaning": "Milk",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Glass_of_milk_on_tablecloth.jpg"
   },
   {
-    "germanWord": "Frau",
-    "englishMeaning": "Woman",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Woman_2017.jpg"
+    "germanWord": "Brot",
+    "englishMeaning": "Bread",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Loaf-300x225.jpg"
   },
   {
-    "germanWord": "Ei",
-    "englishMeaning": "Egg",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Egg_icon.svg"
+    "germanWord": "Zug",
+    "englishMeaning": "Train",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/ICE_3_train.jpg"
   },
   {
     "germanWord": "Flugzeug",
     "englishMeaning": "Airplane",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Airplane_icon.svg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lufthansa_Airbus_A380.jpg"
   },
   {
-    "germanWord": "Katze",
-    "englishMeaning": "Cat",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
+    "germanWord": "Schule",
+    "englishMeaning": "School",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/School_building.jpg"
   },
   {
-    "germanWord": "Fisch",
-    "englishMeaning": "Fish",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Fish_icon.svg"
+    "germanWord": "Bleistift",
+    "englishMeaning": "Pencil",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Pencil.png"
+  },
+  {
+    "germanWord": "Telefon",
+    "englishMeaning": "Phone",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/IPhone_12_Pro_Max_Graphite_PNG.png"
+  },
+  {
+    "germanWord": "Tisch",
+    "englishMeaning": "Table",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Table_top.jpg"
+  },
+  {
+    "germanWord": "Stuhl",
+    "englishMeaning": "Chair",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Chair_example.jpg"
   },
   {
     "germanWord": "Fenster",
     "englishMeaning": "Window",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Window_icon.svg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Double_Window.jpg"
   },
   {
-    "germanWord": "Fahrrad",
-    "englishMeaning": "Bicycle",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bicycle_icon.svg"
-  },
-  {
-    "germanWord": "Wolke",
-    "englishMeaning": "Cloud",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Cloud_icon.svg"
-  },
-  {
-    "germanWord": "Tür",
+    "germanWord": "T\u00fcre",
     "englishMeaning": "Door",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Door_icon.svg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Door_interior.jpg"
   },
   {
-    "germanWord": "Fahrrad",
-    "englishMeaning": "Bicycle",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bicycle_icon.svg"
+    "germanWord": "Lampe",
+    "englishMeaning": "Lamp",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Desk_lamp.jpg"
   },
   {
-    "germanWord": "Fahrrad",
-    "englishMeaning": "Bicycle",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bicycle_icon.svg"
+    "germanWord": "Sonne",
+    "englishMeaning": "Sun",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sun_white.jpg"
+  },
+  {
+    "germanWord": "Mond",
+    "englishMeaning": "Moon",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg"
+  },
+  {
+    "germanWord": "Stern",
+    "englishMeaning": "Star",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Star_illustration.png"
+  },
+  {
+    "germanWord": "Himmel",
+    "englishMeaning": "Sky",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Blue_sky.jpg"
+  },
+  {
+    "germanWord": "Regen",
+    "englishMeaning": "Rain",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Rain_on_window.jpg"
+  },
+  {
+    "germanWord": "Schnee",
+    "englishMeaning": "Snow",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Snowflakes_macro_photography.jpg"
   },
   {
     "germanWord": "Kind",
     "englishMeaning": "Child",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Child_with_a_book.jpg"
-  },
-  {
-    "germanWord": "Fenster",
-    "englishMeaning": "Window",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Window_icon.svg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Happy_child.jpg"
   },
   {
     "germanWord": "Frau",
     "englishMeaning": "Woman",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Woman_2017.jpg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Woman_portrait.jpg"
+  },
+  {
+    "germanWord": "Mann",
+    "englishMeaning": "Man",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Man_face.jpg"
+  },
+  {
+    "germanWord": "Zahnarzt",
+    "englishMeaning": "Dentist",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Dentist_room.jpg"
+  },
+  {
+    "germanWord": "Arzt",
+    "englishMeaning": "Doctor",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Doctor_consulting.jpg"
+  },
+  {
+    "germanWord": "Polizei",
+    "englishMeaning": "Police",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/German_Police_Car.jpg"
+  },
+  {
+    "germanWord": "Feuerwehr",
+    "englishMeaning": "Firefighter",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fire_truck.jpg"
+  },
+  {
+    "germanWord": "B\u00e4ckerei",
+    "englishMeaning": "Bakery",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bakery.jpg"
+  },
+  {
+    "germanWord": "Markt",
+    "englishMeaning": "Market",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Farmer_market.jpg"
+  },
+  {
+    "germanWord": "Stra\u00dfe",
+    "englishMeaning": "Street",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Road_from_above.jpg"
+  },
+  {
+    "germanWord": "Fluss",
+    "englishMeaning": "River",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/River_water.jpg"
+  },
+  {
+    "germanWord": "See",
+    "englishMeaning": "Lake",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Mountain_lake.jpg"
+  },
+  {
+    "germanWord": "Berg",
+    "englishMeaning": "Mountain",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mountains_and_clouds.jpg"
+  },
+  {
+    "germanWord": "Wald",
+    "englishMeaning": "Forest",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Forest_scene.jpg"
+  },
+  {
+    "germanWord": "Insel",
+    "englishMeaning": "Island",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Tropical_island.jpg"
+  },
+  {
+    "germanWord": "Strand",
+    "englishMeaning": "Beach",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Sandy_beach.jpg"
+  },
+  {
+    "germanWord": "Meer",
+    "englishMeaning": "Sea",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ocean_wave.jpg"
+  },
+  {
+    "germanWord": "Fahrrad",
+    "englishMeaning": "Bicycle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bicycle_black.jpg"
+  },
+  {
+    "germanWord": "Motorrad",
+    "englishMeaning": "Motorcycle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Motorcycle_red.jpg"
   }
 ]
