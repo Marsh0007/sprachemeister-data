@@ -3,18 +3,35 @@
     "germanWord": "Apfel",
     "englishMeaning": "Apple",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
-    "options": ["Apple", "Banana", "Orange"]
+    "options": ["Apple", "Banana", "Orange"],
+    "correctAnswer": "Apple"
   },
   {
     "germanWord": "Hund",
     "englishMeaning": "Dog",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Dog_%28Canis_lupus_familiaris%29.jpg",
-    "options": ["Dog", "Cat", "Mouse"]
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/02/19/10/00/dog-1207816_960_720.jpg",
+    "options": ["Cat", "Dog", "Fish"],
+    "correctAnswer": "Dog"
   },
   {
     "germanWord": "Katze",
     "englishMeaning": "Cat",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg",
-    "options": ["Cat", "Bird", "Fish"]
+    "imageUrl": "https://cdn.pixabay.com/photo/2017/11/09/21/41/cat-2934720_960_720.jpg",
+    "options": ["Rabbit", "Cat", "Tiger"],
+    "correctAnswer": "Cat"
+  },
+  {
+    "germanWord": "Haus",
+    "englishMeaning": "House",
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/11/29/05/08/architecture-1867187_960_720.jpg",
+    "options": ["School", "Car", "House"],
+    "correctAnswer": "House"
+  },
+  {
+    "germanWord": "Auto",
+    "englishMeaning": "Car",
+    "imageUrl": "https://cdn.pixabay.com/photo/2012/05/29/00/43/car-49278_960_720.jpg",
+    "options": ["Bike", "Car", "Truck"],
+    "correctAnswer": "Car"
   }
 ]
