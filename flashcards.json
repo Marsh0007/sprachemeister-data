@@ -2,7 +2,7 @@
   {
     "germanWord": "Apfel",
     "englishMeaning": "Apple",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/320px-Red_Apple.jpg"
   },
   {
     "germanWord": "Hund",
@@ -12,7 +12,7 @@
   {
     "germanWord": "Katze",
     "englishMeaning": "Cat",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/320px-Cat03.jpg"
   },
   {
     "germanWord": "Auto",
@@ -23,5 +23,30 @@
     "germanWord": "Haus",
     "englishMeaning": "House",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/German_House_in_Seiffen.jpg/320px-German_House_in_Seiffen.jpg"
+  },
+  {
+    "germanWord": "Buch",
+    "englishMeaning": "Book",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Book_icon_2.svg/320px-Book_icon_2.svg.png"
+  },
+  {
+    "germanWord": "Stuhl",
+    "englishMeaning": "Chair",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chair_illustration.svg/320px-Chair_illustration.svg.png"
+  },
+  {
+    "germanWord": "Baum",
+    "englishMeaning": "Tree",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Oak_tree_illustration.svg/320px-Oak_tree_illustration.svg.png"
+  },
+  {
+    "germanWord": "Tisch",
+    "englishMeaning": "Table",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Table_icon.svg/320px-Table_icon.svg.png"
+  },
+  {
+    "germanWord": "Fahrrad",
+    "englishMeaning": "Bicycle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bicycle_icon.svg/320px-Bicycle_icon.svg.png"
   }
 ]
