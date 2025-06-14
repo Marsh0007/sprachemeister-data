@@ -1,52 +1,262 @@
 [
   {
-    "germanWord": "Apfel",
-    "englishMeaning": "Apple",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/320px-Red_Apple.jpg"
+    "germanWord": "Mann",
+    "englishMeaning": "Man",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Man_with_hat.jpg"
   },
   {
-    "germanWord": "Hund",
-    "englishMeaning": "Dog",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Dog_%28Canis_lupus_familiaris%29.jpg/320px-Dog_%28Canis_lupus_familiaris%29.jpg"
+    "germanWord": "Frau",
+    "englishMeaning": "Woman",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Woman_2017.jpg"
   },
   {
-    "germanWord": "Katze",
-    "englishMeaning": "Cat",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/320px-Cat03.jpg"
+    "germanWord": "Kind",
+    "englishMeaning": "Child",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Child_with_a_book.jpg"
   },
   {
-    "germanWord": "Auto",
-    "englishMeaning": "Car",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Audi_A4_B9_IMG_0934.jpg/320px-Audi_A4_B9_IMG_0934.jpg"
+    "germanWord": "Ich",
+    "englishMeaning": "I",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Person_icon_BLACK-01.svg"
   },
   {
-    "germanWord": "Haus",
-    "englishMeaning": "House",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/German_House_in_Seiffen.jpg/320px-German_House_in_Seiffen.jpg"
+    "germanWord": "Du",
+    "englishMeaning": "You",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/You_icon.svg"
   },
   {
     "germanWord": "Buch",
     "englishMeaning": "Book",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Book_icon_2.svg/320px-Book_icon_2.svg.png"
-  },
-  {
-    "germanWord": "Stuhl",
-    "englishMeaning": "Chair",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chair_illustration.svg/320px-Chair_illustration.svg.png"
-  },
-  {
-    "germanWord": "Baum",
-    "englishMeaning": "Tree",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Oak_tree_illustration.svg/320px-Oak_tree_illustration.svg.png"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Book_icon.svg"
   },
   {
     "germanWord": "Tisch",
     "englishMeaning": "Table",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Table_icon.svg/320px-Table_icon.svg.png"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Table_icon.svg"
+  },
+  {
+    "germanWord": "Stuhl",
+    "englishMeaning": "Chair",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Chair_icon.svg"
+  },
+  {
+    "germanWord": "Tür",
+    "englishMeaning": "Door",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Door_icon.svg"
+  },
+  {
+    "germanWord": "Fenster",
+    "englishMeaning": "Window",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Window_icon.svg"
+  },
+  {
+    "germanWord": "Apfel",
+    "englishMeaning": "Apple",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg"
+  },
+  {
+    "germanWord": "Brot",
+    "englishMeaning": "Bread",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bread_icon.svg"
+  },
+  {
+    "germanWord": "Milch",
+    "englishMeaning": "Milk",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Milk_carton_icon.svg"
+  },
+  {
+    "germanWord": "Käse",
+    "englishMeaning": "Cheese",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Cheese_icon.svg"
+  },
+  {
+    "germanWord": "Ei",
+    "englishMeaning": "Egg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Egg_icon.svg"
+  },
+  {
+    "germanWord": "Hund",
+    "englishMeaning": "Dog",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Dog_%28Canis_lupus_familiaris%29.jpg"
+  },
+  {
+    "germanWord": "Katze",
+    "englishMeaning": "Cat",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
+  },
+  {
+    "germanWord": "Vogel",
+    "englishMeaning": "Bird",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bird_icon.svg"
+  },
+  {
+    "germanWord": "Fisch",
+    "englishMeaning": "Fish",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Fish_icon.svg"
+  },
+  {
+    "germanWord": "Kuh",
+    "englishMeaning": "Cow",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Cow_icon.svg"
+  },
+  {
+    "germanWord": "Auto",
+    "englishMeaning": "Car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Audi_A4_B9_IMG_0934.jpg"
   },
   {
     "germanWord": "Fahrrad",
     "englishMeaning": "Bicycle",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bicycle_icon.svg/320px-Bicycle_icon.svg.png"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bicycle_icon.svg"
+  },
+  {
+    "germanWord": "Zug",
+    "englishMeaning": "Train",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Train_icon.svg"
+  },
+  {
+    "germanWord": "Bus",
+    "englishMeaning": "Bus",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bus_icon.svg"
+  },
+  {
+    "germanWord": "Flugzeug",
+    "englishMeaning": "Airplane",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Airplane_icon.svg"
+  },
+  {
+    "germanWord": "Baum",
+    "englishMeaning": "Tree",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Tree_icon.svg"
+  },
+  {
+    "germanWord": "Blume",
+    "englishMeaning": "Flower",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flower_icon.svg"
+  },
+  {
+    "germanWord": "Sonne",
+    "englishMeaning": "Sun",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sun_icon.svg"
+  },
+  {
+    "germanWord": "Mond",
+    "englishMeaning": "Moon",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Moon_icon.svg"
+  },
+  {
+    "germanWord": "Wolke",
+    "englishMeaning": "Cloud",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Cloud_icon.svg"
+  },
+  {
+    "germanWord": "Tür",
+    "englishMeaning": "Door",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Door_icon.svg"
+  },
+  {
+    "germanWord": "Fisch",
+    "englishMeaning": "Fish",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Fish_icon.svg"
+  },
+  {
+    "germanWord": "Mann",
+    "englishMeaning": "Man",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Man_with_hat.jpg"
+  },
+  {
+    "germanWord": "Tür",
+    "englishMeaning": "Door",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Door_icon.svg"
+  },
+  {
+    "germanWord": "Apfel",
+    "englishMeaning": "Apple",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg"
+  },
+  {
+    "germanWord": "Käse",
+    "englishMeaning": "Cheese",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Cheese_icon.svg"
+  },
+  {
+    "germanWord": "Auto",
+    "englishMeaning": "Car",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Audi_A4_B9_IMG_0934.jpg"
+  },
+  {
+    "germanWord": "Fenster",
+    "englishMeaning": "Window",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Window_icon.svg"
+  },
+  {
+    "germanWord": "Frau",
+    "englishMeaning": "Woman",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Woman_2017.jpg"
+  },
+  {
+    "germanWord": "Ei",
+    "englishMeaning": "Egg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Egg_icon.svg"
+  },
+  {
+    "germanWord": "Flugzeug",
+    "englishMeaning": "Airplane",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Airplane_icon.svg"
+  },
+  {
+    "germanWord": "Katze",
+    "englishMeaning": "Cat",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
+  },
+  {
+    "germanWord": "Fisch",
+    "englishMeaning": "Fish",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Fish_icon.svg"
+  },
+  {
+    "germanWord": "Fenster",
+    "englishMeaning": "Window",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Window_icon.svg"
+  },
+  {
+    "germanWord": "Fahrrad",
+    "englishMeaning": "Bicycle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bicycle_icon.svg"
+  },
+  {
+    "germanWord": "Wolke",
+    "englishMeaning": "Cloud",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Cloud_icon.svg"
+  },
+  {
+    "germanWord": "Tür",
+    "englishMeaning": "Door",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Door_icon.svg"
+  },
+  {
+    "germanWord": "Fahrrad",
+    "englishMeaning": "Bicycle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bicycle_icon.svg"
+  },
+  {
+    "germanWord": "Fahrrad",
+    "englishMeaning": "Bicycle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bicycle_icon.svg"
+  },
+  {
+    "germanWord": "Kind",
+    "englishMeaning": "Child",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Child_with_a_book.jpg"
+  },
+  {
+    "germanWord": "Fenster",
+    "englishMeaning": "Window",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Window_icon.svg"
+  },
+  {
+    "germanWord": "Frau",
+    "englishMeaning": "Woman",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Woman_2017.jpg"
   }
 ]
