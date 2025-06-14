@@ -1,0 +1,20 @@
+[
+  {
+    "germanWord": "Apfel",
+    "englishMeaning": "Apple",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
+    "options": ["Apple", "Banana", "Orange"]
+  },
+  {
+    "germanWord": "Hund",
+    "englishMeaning": "Dog",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Dog_%28Canis_lupus_familiaris%29.jpg",
+    "options": ["Dog", "Cat", "Mouse"]
+  },
+  {
+    "germanWord": "Katze",
+    "englishMeaning": "Cat",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg",
+    "options": ["Cat", "Bird", "Fish"]
+  }
+]
